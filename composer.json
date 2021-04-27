@@ -1,0 +1,21 @@
+{
+    "name": "groupe/emarsys-mailer",
+    "description": "Emarsys Restfull API client",
+    "require": {
+        "php": ">=5.3.3",
+        "lib-curl": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "Groupe\\EmarsysMailer": "src/"
+        }
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Qérys",
+            "email": "poleweb@qerys.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
