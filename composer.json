@@ -1,5 +1,5 @@
 {
-    "name": "groupe/emarsys-mailer",
+    "name": "qerys/emarsys-mailer",
     "description": "Emarsys Restfull API client",
     "require": {
         "php": ">=5.3.3",
